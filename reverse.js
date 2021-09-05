@@ -10,5 +10,5 @@ function reverseString(str){
 var statement = 'hello alien bhai brother .';
 var forAlien = reverseString(statement);
 console.log(forAlien);
-var foodVlog = reverseString(' ki khawa jai ...khido lagse');
+var foodVlog = reverseString(' ki khawa jai ...khido lagse') ;
 console.log(foodVlog);
